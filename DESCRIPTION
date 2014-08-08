@@ -1,7 +1,7 @@
 Package: itertools2
 Title: itertools2: Functions creating iterators for efficient looping
-Version: 0.1
-Date: 2014-07-17
+Version: 0.1.1
+Date: 2014-08-08
 Author: John A. Ramey <johnramey@gmail.com>,
     Kayla Schaefer <kschaefer.tx@gmail.com>
 Maintainer: John A. Ramey <johnramey@gmail.com>
@@ -12,7 +12,7 @@ Imports: iterators (>= 1.0.7)
 Suggests: testthat (>= 0.8.1)
 License: MIT + file LICENSE
 URL: https://github.com/ramhiser/itertools2, http://ramhiser.com
-Packaged: 2014-07-17 21:55:01 UTC; ramhiser
+Packaged: 2014-08-08 12:47:29 UTC; ramhiser
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2014-07-18 00:15:26
+Date/Publication: 2014-08-08 15:16:57
